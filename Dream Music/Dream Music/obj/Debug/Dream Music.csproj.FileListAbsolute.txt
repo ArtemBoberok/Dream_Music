@@ -1,0 +1,13 @@
+X:\Всякое\Dream Music\Dream Music\bin\Debug\Dream Music.exe.config
+X:\Всякое\Dream Music\Dream Music\bin\Debug\Dream Music.exe
+X:\Всякое\Dream Music\Dream Music\bin\Debug\Dream Music.pdb
+X:\Всякое\Dream Music\Dream Music\obj\Debug\Dream Music.csproj.AssemblyReference.cache
+X:\Всякое\Dream Music\Dream Music\obj\Debug\Dream_Music.fmMain.resources
+X:\Всякое\Dream Music\Dream Music\obj\Debug\Dream_Music.Properties.Resources.resources
+X:\Всякое\Dream Music\Dream Music\obj\Debug\Dream Music.csproj.GenerateResource.cache
+X:\Всякое\Dream Music\Dream Music\obj\Debug\Dream Music.csproj.CoreCompileInputs.cache
+X:\Всякое\Dream Music\Dream Music\obj\Debug\Dream Music.exe
+X:\Всякое\Dream Music\Dream Music\obj\Debug\Dream Music.pdb
+X:\Всякое\Dream Music\Dream Music\obj\Debug\Dream Music.csproj.SuggestedBindingRedirects.cache
+X:\Всякое\Dream Music\Dream Music\obj\Debug\Dream_Music.Forms.fmSignIn.resources
+X:\Всякое\Dream Music\Dream Music\obj\Debug\Dream_Music.Forms.fmSignUp.resources
